@@ -1,0 +1,6 @@
+﻿<Table>
+    <Record>
+        <KEY>501</KEY>
+        <EventHandlerType>k514.Mono.Common.StuckTestEventHandler</EventHandlerType>
+    </Record>
+</Table>

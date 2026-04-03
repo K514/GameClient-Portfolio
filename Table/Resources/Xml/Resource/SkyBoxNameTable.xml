@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <ResourceName>Sky_Anime_03_Day_a.mat</ResourceName>
+    </Record>
+    <Record>
+        <KEY>2</KEY>
+        <ResourceName>Sky_Anime_10_Night_a.mat</ResourceName>
+    </Record>
+    <Record>
+        <KEY>3</KEY>
+        <ResourceName>Sky_Anime_11_morning_a.mat</ResourceName>
+    </Record>
+    <Record>
+        <KEY>4</KEY>
+        <ResourceName>Sky_Anime_12_morning_a.mat</ResourceName>
+    </Record>
+    <Record>
+        <KEY>5</KEY>
+        <ResourceName>Sky_Anime_18_day_a.mat</ResourceName>
+    </Record>
+    <Record>
+        <KEY>6</KEY>
+        <ResourceName>Sky_LowPoly_02_Night_a.mat</ResourceName>
+    </Record>
+</Table>

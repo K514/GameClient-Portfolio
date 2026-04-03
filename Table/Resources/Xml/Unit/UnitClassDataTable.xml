@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>None</KEY>
+        <SymbolIconImageIndex>0</SymbolIconImageIndex>
+        <UsableExpItemList>0/1/2/3/4</UsableExpItemList>
+    </Record>
+    <Record>
+        <KEY>Assassin</KEY>
+        <SymbolIconImageIndex>1100</SymbolIconImageIndex>
+        <UsableExpItemList>0/1/2/3/4</UsableExpItemList>
+    </Record>
+    <Record>
+        <KEY>Knight</KEY>
+        <SymbolIconImageIndex>1101</SymbolIconImageIndex>
+        <UsableExpItemList>0/1/2/3/4</UsableExpItemList>
+    </Record>
+    <Record>
+        <KEY>Mage</KEY>
+        <SymbolIconImageIndex>1102</SymbolIconImageIndex>
+        <UsableExpItemList>0/1/2/3/4</UsableExpItemList>
+    </Record>
+    <Record>
+        <KEY>Archer</KEY>
+        <SymbolIconImageIndex>1103</SymbolIconImageIndex>
+        <UsableExpItemList>0/1/2/3/4</UsableExpItemList>
+    </Record>
+</Table>

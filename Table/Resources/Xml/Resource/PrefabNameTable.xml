@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>1</KEY>
+        <ResourceName>StartPos.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>2</KEY>
+        <ResourceName>DrawStartPos.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>3</KEY>
+        <ResourceName>DrawEndPos.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>4</KEY>
+        <ResourceName>Location.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>5</KEY>
+        <ResourceName>Pivot.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>6</KEY>
+        <ResourceName>CheckPointPos.prefab</ResourceName>
+    </Record>
+    
+    <Record>
+        <KEY>10</KEY>
+        <ResourceName>Snow_01.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>11</KEY>
+        <ResourceName>BlowingLeaves.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>12</KEY>
+        <ResourceName>CheckPointDefault.prefab</ResourceName>
+    </Record>
+    <Record>
+        <KEY>13</KEY>
+        <ResourceName>CheckPointNPC00.prefab</ResourceName>
+    </Record>
+</Table>

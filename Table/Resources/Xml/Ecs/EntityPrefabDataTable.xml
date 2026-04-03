@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+        <EntityGenerateFlagMask>Dynamic</EntityGenerateFlagMask>
+        <PreloadCount>0</PreloadCount>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <EntityGenerateFlagMask>Dynamic</EntityGenerateFlagMask>
+        <PreloadCount>0</PreloadCount>
+        <DataTable>k514.Ecs.PoolId#577</DataTable>
+    </Record>
+    <Record>
+        <KEY>2</KEY>
+        <EntityGenerateFlagMask>ManualOverride</EntityGenerateFlagMask>
+        <PreloadCount>0</PreloadCount>
+        <DataTable>[Unity.Transforms.LocalTransform, Unity.Transforms#[1,2,3]/1/[0,0,0,1]]\[Unity.Transforms.LocalToWorld, Unity.Transforms#[]]</DataTable>
+    </Record>
+</Table>

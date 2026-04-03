@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>2000</KEY>
+        <ExtraScale>1.2</ExtraScale>
+        <ExtraBaseStatusAdditiveRate>1.5</ExtraBaseStatusAdditiveRate>
+        <ExtraBaseStatusIndex>0</ExtraBaseStatusIndex>
+        <ExtraBattleStatusIndex>-10</ExtraBattleStatusIndex>
+        <ElementType>Fire</ElementType>
+    </Record>
+    <Record>
+        <KEY>2001</KEY>
+        <ExtraScale>1.2</ExtraScale>
+        <ExtraBaseStatusAdditiveRate>1.5</ExtraBaseStatusAdditiveRate>
+        <ExtraBaseStatusIndex>0</ExtraBaseStatusIndex>
+        <ExtraBattleStatusIndex>-10</ExtraBattleStatusIndex>
+        <ElementType>Water</ElementType>
+    </Record>
+    <Record>
+        <KEY>2002</KEY>
+        <ExtraScale>1.2</ExtraScale>
+        <ExtraBaseStatusAdditiveRate>1.5</ExtraBaseStatusAdditiveRate>
+        <ExtraBaseStatusIndex>0</ExtraBaseStatusIndex>
+        <ExtraBattleStatusIndex>-10</ExtraBattleStatusIndex>
+        <ElementType>Light</ElementType>
+    </Record>
+    <Record>
+        <KEY>2003</KEY>
+        <ExtraScale>1.2</ExtraScale>
+        <ExtraBaseStatusAdditiveRate>1.5</ExtraBaseStatusAdditiveRate>
+        <ExtraBaseStatusIndex>0</ExtraBaseStatusIndex>
+        <ExtraBattleStatusIndex>-10</ExtraBattleStatusIndex>
+        <ElementType>Darkness</ElementType>
+    </Record>
+</Table>

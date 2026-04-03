@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 20000000 ~ 30000000번 -->
+    <Record>
+        <KEY>20000000</KEY>
+        <TextList>システムメニュー</TextList>
+    </Record>
+    <Record>
+        <KEY>20000100</KEY>
+        <TextList>言語/英語/日本語/韓国語/音量/マスター/BGM/効果音/デフォルト/リセット/戻る</TextList>
+    </Record>
+</Table>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+        <Duration>5</Duration>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <Duration>5</Duration>
+    </Record>
+    <Record>
+        <KEY>2</KEY>
+        <Duration>10</Duration>
+    </Record>
+    <Record>
+        <KEY>3</KEY>
+        <Duration>10</Duration>
+    </Record>
+</Table>

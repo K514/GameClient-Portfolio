@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 40_000_000 ~ 41_000_000 -->
+    <Record>
+        <KEY>30000000</KEY>
+        <FadeInTime>0.5</FadeInTime>
+        <ProjectTime>1.5</ProjectTime>
+        <FadeOutTime>0.2</FadeOutTime>
+    </Record>
+    <Record>
+        <KEY>30000001</KEY>
+        <FadeInTime>0.5</FadeInTime>
+        <ProjectTime>1.5</ProjectTime>
+        <FadeOutTime>0.2</FadeOutTime>
+        <ProjectorScaleProgressType>FromBackFixingWidth</ProjectorScaleProgressType>
+    </Record>
+    <Record>
+        <KEY>30000002</KEY>
+        <FadeInTime>0.5</FadeInTime>
+        <ProjectTime>1.5</ProjectTime>
+        <FadeOutTime>0.2</FadeOutTime>
+        <ProjectorScaleProgressType>FromBack</ProjectorScaleProgressType>
+    </Record>
+    <Record>
+        <KEY>30000100</KEY>
+        <FadeInTime>0.5</FadeInTime>
+        <ProjectTime>2</ProjectTime>
+        <FadeOutTime>1.2</FadeOutTime>
+        <ProjectorScaleProgressType>FromBackFixingWidth</ProjectorScaleProgressType>
+    </Record>
+</Table>

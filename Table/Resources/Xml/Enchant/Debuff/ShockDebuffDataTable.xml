@@ -1,0 +1,11 @@
+﻿<Table>
+    <!-- 201000000 ~ 202000000 -->
+    <Record>
+        <!-- 키 값 -->
+        <KEY>201000000</KEY>
+        <!-- 발동확률 -->
+        <ChanceRate>1</ChanceRate>
+        <!-- 지속시간 -->
+        <Duration>5</Duration>
+    </Record>
+</Table>

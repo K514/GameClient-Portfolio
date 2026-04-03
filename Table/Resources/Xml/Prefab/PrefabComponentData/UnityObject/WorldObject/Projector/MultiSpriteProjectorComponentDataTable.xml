@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 41_000_000 ~ 42_000_000 -->
+    <Record>
+        <KEY>31000000</KEY>
+        <FadeInTime>1</FadeInTime>
+        <ProjectTime>0.3</ProjectTime>
+        <FadeOutTime>0.1</FadeOutTime>
+        <ProjectSize>2</ProjectSize>
+    </Record>
+</Table>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 10000000 ~ 20000000번 -->
+	<Record>
+		<KEY>10000000</KEY>
+		<TextList>{0}</TextList>
+	</Record>
+    <Record>
+        <KEY>10000100</KEY>
+        <TextList>쿨타임 : {0}/MP소모 : {1}</TextList>
+    </Record>
+</Table>

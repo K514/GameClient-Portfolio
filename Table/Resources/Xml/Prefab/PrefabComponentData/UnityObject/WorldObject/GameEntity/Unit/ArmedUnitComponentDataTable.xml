@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 142_000_000 ~ 143_000_000 -->
+    <Record>
+        <KEY>142000000</KEY>
+        <EntityLanguageId>90100</EntityLanguageId>
+        <BattleStatusId>1</BattleStatusId>
+        <AnimationModuleList>0</AnimationModuleList>
+        <PhysicsModuleList>200</PhysicsModuleList>
+        <ActionModuleList>10</ActionModuleList>
+        <GeometryModuleList>0</GeometryModuleList>
+        <ClassType>Assassin</ClassType>
+        <ProjectileSpawnIndexList>1001</ProjectileSpawnIndexList>
+        <LatentAbilityIndexList>21/22/23/24</LatentAbilityIndexList>
+        <LeftWeaponIndex>208010</LeftWeaponIndex>
+        <RightWeaponIndex>208010</RightWeaponIndex>
+    </Record>
+</Table>

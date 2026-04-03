@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>LobbyScene.unity</KEY>
+        <CameraConstantDataRecordIndex>0</CameraConstantDataRecordIndex>
+        <SceneVariableDataRecordIndexList>[1]</SceneVariableDataRecordIndexList>
+    </Record>
+    <Record>
+        <KEY>TestStageC.unity</KEY>
+        <CameraConstantDataRecordIndex>0</CameraConstantDataRecordIndex>
+        <SceneVariableDataRecordIndexList>[2]</SceneVariableDataRecordIndexList>
+    </Record>
+    <Record>
+        <KEY>TestStageA.unity</KEY>
+        <CameraConstantDataRecordIndex>0</CameraConstantDataRecordIndex>
+        <SceneVariableDataRecordIndexList>[3]</SceneVariableDataRecordIndexList>
+    </Record>
+    <Record>
+        <KEY>TestStageB.unity</KEY>
+        <CameraConstantDataRecordIndex>0</CameraConstantDataRecordIndex>
+        <SceneVariableDataRecordIndexList>[]</SceneVariableDataRecordIndexList>
+    </Record>
+    <Record>
+        <KEY>TestStageD.unity</KEY>
+        <CameraConstantDataRecordIndex>0</CameraConstantDataRecordIndex>
+        <SceneVariableDataRecordIndexList>[4]</SceneVariableDataRecordIndexList>
+    </Record>
+</Table>

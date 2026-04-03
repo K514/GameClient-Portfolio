@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>MatCap_TextureMult</KEY>
+        <ResourceName>MatCap_TextureMult.shader</ResourceName>
+    </Record>
+    <Record>
+        <KEY>MatCap_TextureMult_Silhouette</KEY>
+        <ResourceName>MatCap_TextureMult_Silhouette.shader</ResourceName>
+    </Record>
+</Table>

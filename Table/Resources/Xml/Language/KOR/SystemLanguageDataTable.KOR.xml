@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 0 ~ 10000000번 -->
+    <Record>
+        <KEY>0</KEY>
+        <Text>Nanako</Text>
+    </Record>
+    <Record>
+        <KEY>10</KEY>
+        <Text>마나가 부족합니다.</Text>
+    </Record>
+    <Record>
+        <KEY>11</KEY>
+        <Text>쿨타임 입니다.</Text>
+    </Record>
+</Table>

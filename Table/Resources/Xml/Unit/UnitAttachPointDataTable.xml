@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+        <AttachPointNameMap>AnimationRootNode#[HipMaster/Hip/hip/Bip/bip]\BoneCenterNode#[Torso/Spine/spine]</AttachPointNameMap>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <AttachPointNameMap>AnimationRootNode#[HipMaster/Hip/hip/Bip/bip]\BoneCenterNode#[Torso/Spine/spine]\LeftArm#left_weapon\RightArm#right_weapon</AttachPointNameMap>
+    </Record>
+</Table>

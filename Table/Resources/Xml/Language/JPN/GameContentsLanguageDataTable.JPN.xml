@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 30000000 ~ 40000000번 -->
+    <!-- 기저 능력치 -->
+    <Record>
+        <KEY>30001000</KEY>
+        <Text>힘</Text>
+    </Record>
+    <Record>
+        <KEY>30001001</KEY>
+        <Text>지능</Text>
+    </Record>
+    <Record>
+        <KEY>30001002</KEY>
+        <Text>체력</Text>
+    </Record>
+    <Record>
+        <KEY>30001003</KEY>
+        <Text>정신력</Text>
+    </Record>
+    <Record>
+        <KEY>30001004</KEY>
+        <Text>민첩</Text>
+    </Record>
+    <Record>
+        <KEY>30001005</KEY>
+        <Text>운</Text>
+    </Record>
+
+    <!-- 전투 능력치 1 -->
+    <Record>
+        <KEY>30002000</KEY>
+        <Text>공격력</Text>
+    </Record>
+    <Record>
+        <KEY>30002001</KEY>
+        <Text>마법공격력</Text>
+    </Record>
+    <Record>
+        <KEY>30002002</KEY>
+        <Text>크리티컬확률</Text>
+    </Record>
+    <Record>
+        <KEY>30002003</KEY>
+        <Text>마법크리티컬확률</Text>
+    </Record>
+    <Record>
+        <KEY>30002004</KEY>
+        <Text>공격속도</Text>
+    </Record>
+    <Record>
+        <KEY>30002005</KEY>
+        <Text>주문속도</Text>
+    </Record>
+    <Record>
+        <KEY>30002006</KEY>
+        <Text>이동속도</Text>
+    </Record>
+    <Record>
+        <KEY>30002007</KEY>
+        <Text>데미지증가율</Text>
+    </Record>
+    <Record>
+        <KEY>30002008</KEY>
+        <Text>물리데미지증가율</Text>
+    </Record>
+    <Record>
+        <KEY>30002009</KEY>
+        <Text>마법데미지증가율</Text>
+    </Record>
+    <Record>
+        <KEY>30002010</KEY>
+        <Text>크리티컬 공격력</Text>
+    </Record>
+    <Record>
+        <KEY>30002011</KEY>
+        <Text>방어무시데미지증가율</Text>
+    </Record>
+    <Record>
+        <KEY>30002012</KEY>
+        <Text>보스데미지증가율</Text>
+    </Record>
+    <Record>
+        <KEY>30002013</KEY>
+        <Text>적중률</Text>
+    </Record>
+    <Record>
+        <KEY>30002014</KEY>
+        <Text>쿨타임</Text>
+    </Record>
+    <Record>
+        <KEY>30002015</KEY>
+        <Text>쿨타임회복속도</Text>
+    </Record>
+    <Record>
+        <KEY>30002016</KEY>
+        <Text>화속성강화</Text>
+    </Record>
+    <Record>
+        <KEY>30002017</KEY>
+        <Text>수속성강화</Text>
+    </Record>
+    <Record>
+        <KEY>30002018</KEY>
+        <Text>지속성강화</Text>
+    </Record>
+    <Record>
+        <KEY>30002019</KEY>
+        <Text>풍속성강화</Text>
+    </Record>
+    <Record>
+        <KEY>30002020</KEY>
+        <Text>명속성강화</Text>
+    </Record>
+    <Record>
+        <KEY>30002021</KEY>
+        <Text>암속성강화</Text>
+    </Record>
+
+    <!-- 전투 능력치 2 -->
+    <Record>
+        <KEY>30003000</KEY>
+        <Text>물리방어력</Text>
+    </Record>
+    <Record>
+        <KEY>30002065</KEY>
+        <Text>마법방어력</Text>
+    </Record>
+    <Record>
+        <KEY>30002066</KEY>
+        <Text>물리크리티컬저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002067</KEY>
+        <Text>마법크리티컬저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002068</KEY>
+        <Text>피해감소율</Text>
+    </Record>
+    <Record>
+        <KEY>30002069</KEY>
+        <Text>방어력</Text>
+    </Record>
+    <Record>
+        <KEY>30002070</KEY>
+        <Text>마법피해감소율</Text>
+    </Record>
+    <Record>
+        <KEY>30002071</KEY>
+        <Text>크리티컬피해감소율</Text>
+    </Record>
+    <Record>
+        <KEY>30002072</KEY>
+        <Text>회피율</Text>
+    </Record>
+    <Record>
+        <KEY>30002073</KEY>
+        <Text>경직회복속도</Text>
+    </Record>
+    <Record>
+        <KEY>30002074</KEY>
+        <Text>화속성저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002075</KEY>
+        <Text>수속성저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002076</KEY>
+        <Text>지속성저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002077</KEY>
+        <Text>풍속성저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002078</KEY>
+        <Text>명속성저항</Text>
+    </Record>
+    <Record>
+        <KEY>30002079</KEY>
+        <Text>암속성저항</Text>
+    </Record>
+
+    <!-- 전투 능력치 3 -->
+    <Record>
+        <KEY>30045228</KEY>
+        <Text>HP</Text>
+    </Record>
+    <Record>
+        <KEY>30045229</KEY>
+        <Text>MP</Text>
+    </Record>
+    <Record>
+        <KEY>30045230</KEY>
+        <Text>HP리젠</Text>
+    </Record>
+    <Record>
+        <KEY>30045231</KEY>
+        <Text>MP리젠</Text>
+    </Record>
+    <Record>
+        <KEY>30045232</KEY>
+        <Text>고유공격속도</Text>
+    </Record>
+    <Record>
+        <KEY>30045233</KEY>
+        <Text>고유주문속도</Text>
+    </Record>
+    <Record>
+        <KEY>30045234</KEY>
+        <Text>고유이동속도</Text>
+    </Record>
+    <Record>
+        <KEY>30045235</KEY>
+        <Text>점프력</Text>
+    </Record>
+    <Record>
+        <KEY>30045236</KEY>
+        <Text>점프횟수</Text>
+    </Record>
+    <Record>
+        <KEY>30045237</KEY>
+        <Text>시야</Text>
+    </Record>
+    <Record>
+        <KEY>30045238</KEY>
+        <Text>경험치획득배율</Text>
+    </Record>
+    <Record>
+        <KEY>30045239</KEY>
+        <Text>마석획득량</Text>
+    </Record>
+    <Record>
+        <KEY>30045240</KEY>
+        <Text>아이템추가드롭률</Text>
+    </Record>
+    <Record>
+        <KEY>30045241</KEY>
+        <Text>체력흡수</Text>
+    </Record>
+    <Record>
+        <KEY>30045242</KEY>
+        <Text>마나소모량</Text>
+    </Record>
+
+    <Record>
+        <KEY>30047000</KEY>
+        <Text>투사체 데미지</Text>
+    </Record>
+    <Record>
+        <KEY>30047001</KEY>
+        <Text>투사체 숫자</Text>
+    </Record>
+    <Record>
+        <KEY>30047002</KEY>
+        <Text>투사체 속도</Text>
+    </Record>
+    <Record>
+        <KEY>30047003</KEY>
+        <Text>투사체 크기</Text>
+    </Record>
+    <Record>
+        <KEY>30047004</KEY>
+        <Text>투사체 수명</Text>
+    </Record>
+
+
+    <!-- 무속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050010</KEY>
+        <Text>강화된</Text>
+    </Record>
+    <Record>
+        <KEY>30050011</KEY>
+        <Text>돌연변이</Text>
+    </Record>
+    <Record>
+        <KEY>30050012</KEY>
+        <Text>엘리트</Text>
+    </Record>
+    <Record>
+        <KEY>30050013</KEY>
+        <Text>리더</Text>
+    </Record>
+
+    <!-- 화속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050020</KEY>
+        <Text>불타는</Text>
+    </Record>
+    <Record>
+        <KEY>30050021</KEY>
+        <Text>불사르는</Text>
+    </Record>
+    <Record>
+        <KEY>30050022</KEY>
+        <Text>업화의</Text>
+    </Record>
+    <Record>
+        <KEY>30050023</KEY>
+        <Text>작열하는</Text>
+    </Record>
+
+    <!-- 수속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050030</KEY>
+        <Text>차가운</Text>
+    </Record>
+    <Record>
+        <KEY>30050031</KEY>
+        <Text>혹한의</Text>
+    </Record>
+    <Record>
+        <KEY>30050032</KEY>
+        <Text>얼어붙은</Text>
+    </Record>
+    <Record>
+        <KEY>30050033</KEY>
+        <Text>눈보라의</Text>
+    </Record>
+
+    <!-- 풍속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050040</KEY>
+        <Text>거센 폭풍의</Text>
+    </Record>
+    <Record>
+        <KEY>30050041</KEY>
+        <Text>끝없는 순환의</Text>
+    </Record>
+    <Record>
+        <KEY>30050042</KEY>
+        <Text>바람길을 달리는</Text>
+    </Record>
+    <Record>
+        <KEY>30050043</KEY>
+        <Text>숨을 빼앗는</Text>
+    </Record>
+
+    <!-- 지속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050050</KEY>
+        <Text>묵묵한</Text>
+    </Record>
+    <Record>
+        <KEY>30050051</KEY>
+        <Text>땅을 울리는</Text>
+    </Record>
+    <Record>
+        <KEY>30050052</KEY>
+        <Text>부서지지 않는</Text>
+    </Record>
+    <Record>
+        <KEY>30050053</KEY>
+        <Text>지저의</Text>
+    </Record>
+
+    <!-- 명속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050060</KEY>
+        <Text>눈부신</Text>
+    </Record>
+    <Record>
+        <KEY>30050061</KEY>
+        <Text>광기의</Text>
+    </Record>
+    <Record>
+        <KEY>30050062</KEY>
+        <Text>축복받은</Text>
+    </Record>
+    <Record>
+        <KEY>30050063</KEY>
+        <Text>선도하는</Text>
+    </Record>
+
+    <!-- 암속성 챔피언 몹 접두어 -->
+    <Record>
+        <KEY>30050070</KEY>
+        <Text>그늘진</Text>
+    </Record>
+    <Record>
+        <KEY>30050071</KEY>
+        <Text>타락한</Text>
+    </Record>
+    <Record>
+        <KEY>30050072</KEY>
+        <Text>저주받은</Text>
+    </Record>
+    <Record>
+        <KEY>30050073</KEY>
+        <Text>해메이는</Text>
+    </Record>
+
+    <!-- 아이템 랭크 -->
+    <Record>
+        <KEY>30051000</KEY>
+        <Text>등급없음</Text>
+    </Record>
+    <Record>
+        <KEY>30051001</KEY>
+        <Text>노멀</Text>
+    </Record>
+    <Record>
+        <KEY>30051002</KEY>
+        <Text>매직</Text>
+    </Record>
+    <Record>
+        <KEY>30051003</KEY>
+        <Text>레어</Text>
+    </Record>
+    <Record>
+        <KEY>30051004</KEY>
+        <Text>유니크</Text>
+    </Record>
+    <Record>
+        <KEY>30051005</KEY>
+        <Text>레전더리</Text>
+    </Record>
+    <Record>
+        <KEY>30051006</KEY>
+        <Text>에픽</Text>
+    </Record>
+    <Record>
+        <KEY>30051007</KEY>
+        <Text>판타즘</Text>
+    </Record>
+
+    <!-- 버프 -->
+    <Record>
+        <KEY>30060001</KEY>
+        <Text>축복</Text>
+    </Record>
+    <Record>
+        <KEY>30060002</KEY>
+        <Text>승리의 전율</Text>
+    </Record>
+    <Record>
+        <KEY>30060003</KEY>
+        <Text>치유</Text>
+    </Record>
+
+    <!-- 디버프 -->
+    <Record>
+        <KEY>30061001</KEY>
+        <Text>저주</Text>
+        <Description>{0}% 확률로 {1}초 동안 저주에 걸어 방어력이 50% 감소시킵니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061002</KEY>
+        <Text>스턴</Text>
+        <Description>{0}% 확률로 {1}초 동안 기절시켜 무력화시킵니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061003</KEY>
+        <Text>출혈</Text>
+        <Description>{0}% 확률로 {1}초 동안 출혈을 부여하여 1초 간격으로 공격력 5% 만큼의 피해를 줍니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061004</KEY>
+        <Text>중독</Text>
+        <Description>{0}% 확률로 {1}초 동안 중독을 부여하여 1초 간격으로 최대체력 1% 만큼의 피해를 줍니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061005</KEY>
+        <Text>실명</Text>
+        <Description>{0}% 확률로 {1}초 동안 시야를 빼앗고 자동조준 거리가 90% 감소시킵니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061006</KEY>
+        <Text>오한</Text>
+        <Description>{0}% 확률로 {1}초 동안 오한을 부여하여 1초 간격으로 공격력 1% 만큼의 피해를 주고, 이동속도가 30% 감소시킵니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061007</KEY>
+        <Text>빙결</Text>
+        <Description>{0}% 확률로 {1}초 동안 얼려서 무력화시킵니다.</Description>
+    </Record>
+    <Record>
+        <KEY>30061008</KEY>
+        <Text>그로기</Text>
+        <Description>{0}% 확률로 {1}초 동안 무력화되어 방어력이 100% 감소시킵니다.</Description>
+    </Record>
+</Table>

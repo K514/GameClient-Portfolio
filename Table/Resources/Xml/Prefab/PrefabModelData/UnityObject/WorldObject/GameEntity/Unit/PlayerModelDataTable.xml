@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 1_200_000_000 ~ 1_300_000_000 -->
+    <Record>
+        <KEY>1200000000</KEY>
+        <PrefabName>FemaleAssassin01.prefab</PrefabName>
+        <AnimatorIndex>1</AnimatorIndex>
+        <PrefabColliderRadius>0.4</PrefabColliderRadius>
+        <PrefabColliderHeight>1.8</PrefabColliderHeight>
+        <PrefabMass>5</PrefabMass>
+        <AttributeMask>BottomPivot</AttributeMask>
+        <AttachPointQueryIndex>1</AttachPointQueryIndex>
+    </Record>
+</Table>

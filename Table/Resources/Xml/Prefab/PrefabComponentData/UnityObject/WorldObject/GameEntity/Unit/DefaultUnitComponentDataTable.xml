@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 140_000_000 ~ 141_000_000 -->
+    <Record>
+        <KEY>140000000</KEY>
+        <EntityLanguageId>0</EntityLanguageId>
+        <BaseStatusId>0</BaseStatusId>
+        <BattleStatusId>0</BattleStatusId>
+        <GroupId>0</GroupId>
+        <AnimationModuleList>0</AnimationModuleList>
+        <PhysicsModuleList>0</PhysicsModuleList>
+        <MindModuleList>0</MindModuleList>
+        <ActionModuleList>0</ActionModuleList>
+        <RenderModuleList>0</RenderModuleList>
+        <RoleModuleList>0</RoleModuleList>
+        <GeometryModuleList>0</GeometryModuleList>
+    </Record>
+
+    <!-- 테스트 플레이어 -->
+    <Record>
+        <KEY>140000001</KEY>
+        <EntityLanguageId>30000000</EntityLanguageId>
+        <BattleStatusId>1</BattleStatusId>
+        <PhysicsModuleList>3000</PhysicsModuleList>
+        <ActionModuleList>1</ActionModuleList>
+        <GeometryModuleList>0</GeometryModuleList>
+    </Record>
+</Table>

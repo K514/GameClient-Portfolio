@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 1_000_000_000 ~ 1_100_000_000 -->
+    <Record>
+        <KEY>1000000000</KEY>
+    </Record>
+
+    <Record>
+        <KEY>1000000001</KEY>
+        <PrefabName>ICG.prefab</PrefabName>
+        <ModelScale>1.5</ModelScale>
+        <AnimatorIndex>1</AnimatorIndex>
+        <PrefabColliderRadius>0.25</PrefabColliderRadius>
+        <PrefabColliderHeight>1</PrefabColliderHeight>
+        <PrefabMass>5</PrefabMass>
+        <AttributeMask>BottomPivot</AttributeMask>
+        <AttachPointQueryIndex>1</AttachPointQueryIndex>
+    </Record>
+</Table>

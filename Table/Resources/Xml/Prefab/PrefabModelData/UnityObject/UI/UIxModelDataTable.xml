@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 0 ~ 10_000_000 -->
+    <Record>
+        <KEY>20000</KEY>
+        <PrefabName>DefaultPanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20001</KEY>
+        <PrefabName>FadePanel.prefab</PrefabName>
+    </Record>
+
+    <Record>
+        <KEY>20010</KEY>
+        <PrefabName>MainHUD.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20011</KEY>
+        <PrefabName>TouchPanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20012</KEY>
+        <PrefabName>Controller.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20013</KEY>
+        <PrefabName>SystemMenu.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20014</KEY>
+        <PrefabName>GameConfig.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20015</KEY>
+        <PrefabName>MainHUDPauseButton.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20016</KEY>
+        <PrefabName>PlayerState.prefab</PrefabName>
+    </Record>
+
+    <Record>
+        <KEY>20101</KEY>
+        <PrefabName>NumberPanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20102</KEY>
+        <PrefabName>DamagePanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20111</KEY>
+        <PrefabName>NamePanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20121</KEY>
+        <PrefabName>HpBarPanel.prefab</PrefabName>
+    </Record>
+    <Record>
+        <KEY>20131</KEY>
+        <PrefabName>GaugePanel.prefab</PrefabName>
+    </Record>
+</Table>

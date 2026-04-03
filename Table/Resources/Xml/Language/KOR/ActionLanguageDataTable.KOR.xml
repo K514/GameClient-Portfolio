@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 200000000 ~ 210000000번 -->
+	<Record>
+		<KEY>200000100</KEY>
+		<Text>이동</Text>
+		<Description>바라보는 방향으로 이동한다.</Description>
+	</Record>
+	<Record>
+		<KEY>200000200</KEY>
+		<Text>점프</Text>
+		<Description>점프한다.</Description>
+	</Record>
+    <Record>
+        <KEY>200000300</KEY>
+        <Text>대시</Text>
+        <Description>바라보는 방향으로 빠르게 이동한다. 이동하는 중에는 무적이며, 공중에서도 사용할 수 있다.</Description>
+    </Record>
+    <Record>
+		<KEY>200000400</KEY>
+		<Text>가드</Text>
+		<Description>방어태세를 취한다. 스킬키를 누르는 동안 지속된다.</Description>
+	</Record>
+	<Record>
+		<KEY>200000500</KEY>
+		<Text>상호작용</Text>
+		<Description>주변 오브젝트와 상호작용한다.</Description>
+	</Record>
+
+    <Record>
+        <KEY>210000000</KEY>
+        <Text>기본공격</Text>
+        <Description></Description>
+    </Record>
+    <Record>
+        <KEY>210000100</KEY>
+        <Text>기본스킬1</Text>
+        <Description></Description>
+    </Record>
+    <Record>
+        <KEY>210000200</KEY>
+        <Text>기본스킬2</Text>
+        <Description></Description>
+    </Record>
+    <Record>
+        <KEY>210000300</KEY>
+        <Text>기본스킬3</Text>
+        <Description></Description>
+    </Record>
+    <Record>
+        <KEY>210000400</KEY>
+        <Text>기본스킬4</Text>
+        <Description></Description>
+    </Record>
+    <Record>
+        <KEY>210000500</KEY>
+        <Text>기본스킬5</Text>
+        <Description></Description>
+    </Record>
+</Table>

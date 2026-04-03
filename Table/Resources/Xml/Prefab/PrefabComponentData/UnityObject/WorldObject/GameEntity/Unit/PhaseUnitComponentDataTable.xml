@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 141_000_000 ~ 142_000_000 -->
+    <Record>
+        <KEY>141000000</KEY>
+        <EntityLanguageId>110001</EntityLanguageId>
+        <BattleStatusId>1</BattleStatusId>
+        <ActionModuleList>0</ActionModuleList>
+        <ProjectileSpawnIndexList>26/13</ProjectileSpawnIndexList>
+        <ComponentScaleFactor>1.5</ComponentScaleFactor>
+        <PhaseList>[[HpRate,0.7], 1000]/[[HpRate,0.4], 1100]/[[HpRate,0.1], 1200]</PhaseList>
+    </Record>
+</Table>

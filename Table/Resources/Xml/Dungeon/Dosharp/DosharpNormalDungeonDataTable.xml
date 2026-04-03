@@ -1,0 +1,33 @@
+﻿<Table>
+    <Meta>
+        <ZoneLanguageIndex>193000</ZoneLanguageIndex>
+        <StageClearItemDropTableIndexList>0/10/400/500/21000/22000/23000/24000/25000/26000</StageClearItemDropTableIndexList>
+        <DungeonClearItemDropTableIndexList>0/1/2/3/100/101/102/103/104/3000</DungeonClearItemDropTableIndexList>
+        <DungeonClearRewardGoldInterval>2500,3000</DungeonClearRewardGoldInterval>
+    </Meta>
+    <Record>
+        <KEY>3250</KEY>
+        <DungeonLanguageIndex>193001</DungeonLanguageIndex>
+        <StageSceneTable>Normal#[120100/120200/120300/120400]\Boss#[122100/122200]</StageSceneTable>
+    </Record>
+    <Record>
+        <KEY>3251</KEY>
+        <DungeonLanguageIndex>193002</DungeonLanguageIndex>
+        <StageSceneTable>Normal#[120500/120600/120700/120800]\Boss#[122100/122200]</StageSceneTable>
+    </Record>
+    <Record>
+        <KEY>3252</KEY>
+        <DungeonLanguageIndex>193003</DungeonLanguageIndex>
+        <StageSceneTable>Normal#[120900/121000/121100/121200]\Boss#[122100/122200]</StageSceneTable>
+    </Record>
+    <Record>
+        <KEY>3253</KEY>
+        <DungeonLanguageIndex>193004</DungeonLanguageIndex>
+        <StageSceneTable>Normal#[121300/121400/121500/121600]\Boss#[122100/122200]</StageSceneTable>
+    </Record>
+    <Record>
+        <KEY>3254</KEY>
+        <DungeonLanguageIndex>193004</DungeonLanguageIndex>
+        <StageSceneTable>Normal#[121700/121800/121900/122000]\Boss#[122100/122200]</StageSceneTable>
+    </Record>
+</Table>

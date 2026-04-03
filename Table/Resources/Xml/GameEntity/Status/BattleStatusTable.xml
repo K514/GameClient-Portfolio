@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- Default -->
+    <Record>
+        <KEY>0</KEY>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <BattleStatusPreset>HP_Base#100 \ MP_Base#100 \ HP_Fix_Recovery#3 \ MP_Fix_Recovery#3 \ AttackSpeedBasis#2 \ MoveSpeedBasis#8 \ JumpForce#50 \ JumpCount#2 \ SightRange#16 \ Attack_Melee#10</BattleStatusPreset>
+    </Record>
+</Table>

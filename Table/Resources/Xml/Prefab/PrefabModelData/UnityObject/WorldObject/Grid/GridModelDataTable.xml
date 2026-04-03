@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 10_000_000 ~ 20_000_000 -->
+    <Record>
+        <KEY>10000000</KEY>
+        <PrefabName>DefaultGrid.prefab</PrefabName>
+    </Record>
+</Table>

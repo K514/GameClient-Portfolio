@@ -1,0 +1,156 @@
+﻿<Table>
+    <Record>
+        <KEY>1000000000</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultAttackSequenceHandler</EventHandlerType>
+        <Cooldown>0</Cooldown>
+        <Cost>0</Cost>
+        <LevelUpperBound>1</LevelUpperBound>
+        <ActionLanguageIndex>210000000</ActionLanguageIndex>
+        <FormatLanguageIndex>10000000</FormatLanguageIndex>
+        <SequenceCommand>[0, X]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000100</KEY>
+        <EventHandlerType>k514.Mono.Common.RisingUpperHandler</EventHandlerType>
+        <Cooldown>2</Cooldown>
+        <Cost>5</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000100</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[0, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000101</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch1Handler</EventHandlerType>
+        <Cooldown>5</Cooldown>
+        <Cost>10</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000200</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[1, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000102</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch2Handler</EventHandlerType>
+        <Cooldown>5</Cooldown>
+        <Cost>10</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000300</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[3, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000103</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch3Handler</EventHandlerType>
+        <Cooldown>7</Cooldown>
+        <Cost>15</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000400</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[11, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000104</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch4Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[33, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000105</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch5Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[13, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000106</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch6Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[31, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000107</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch7Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[2, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000108</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch8Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[22, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000109</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch9Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[24, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000110</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch10Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[21, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000111</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch11Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[214, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+    <Record>
+        <KEY>1000000112</KEY>
+        <EventHandlerType>k514.Mono.Common.DefaultPunch12Handler</EventHandlerType>
+        <Cooldown>10</Cooldown>
+        <Cost>30</Cost>
+        <LevelUpperBound>10</LevelUpperBound>
+        <ActionLanguageIndex>210000500</ActionLanguageIndex>
+        <FormatLanguageIndex>10000100</FormatLanguageIndex>
+        <SequenceCommand>[234, Z]</SequenceCommand>
+        <EngageRange>1</EngageRange>
+    </Record>
+</Table>

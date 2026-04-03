@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 210000000 ~ 220000000번 -->
+	<Record>
+		<KEY>210000010</KEY>
+		<Text>몬스터 누적 합계{0} 마리 사냥</Text>
+	</Record>
+	<Record>
+		<KEY>210000011</KEY>
+		<Text>{0} {1}개 스테이지 클리어</Text>
+	</Record>
+	<Record>
+		<KEY>210000012</KEY>
+		<Text>{0} {1} 던전 클리어</Text>
+	</Record>
+	<Record>
+		<KEY>210000013</KEY>
+		<Text>{0} 모드 클리어하기</Text>
+	</Record>
+	<Record>
+		<KEY>210000014</KEY>
+		<Text>피격 {0}회로 클리어하기</Text>
+	</Record>
+	<Record>
+		<KEY>210000015</KEY>
+		<Text>{0}{1} 보스 클리어</Text>
+	</Record>
+    <Record>
+        <KEY>210000016</KEY>
+        <Text>캐릭터 레벨 {0} 달성</Text>
+    </Record>
+</Table>

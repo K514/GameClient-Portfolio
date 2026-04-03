@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Record>
+    <KEY>0</KEY>
+    <ValueTable>[None#[0,0.8,0.1,0]\Normal#[1,0.8,0.1,0]\Magic#[2,0.75,0.15,0.01]\Rare#[3,0.7,0.18,0.02]\Unique#[4,0.5,0.21,0.04]\Legendary#[5,0.3,0.24,0.08]\Epic#[6,0.1,0.27,0.15]\Fantasm#[7,0.05,0.3,0.25]]</ValueTable>
+  </Record>
+</Table>

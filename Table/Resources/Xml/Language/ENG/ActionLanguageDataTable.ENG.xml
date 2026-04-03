@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 200000000 ~ 210000000번 -->
+	<Record>
+		<KEY>200000001</KEY>
+		<Text>이동</Text>
+		<Description>바라보는 방향으로 이동한다.</Description>
+	</Record>
+	<Record>
+		<KEY>200000002</KEY>
+		<Text>점프</Text>
+		<Description>바라보는 방향으로 점프한다.</Description>
+	</Record>
+	<Record>
+		<KEY>200000003</KEY>
+		<Text>가드</Text>
+		<Description>방어한다.</Description>
+	</Record>
+	<Record>
+		<KEY>200000004</KEY>
+		<Text>회피</Text>
+		<Description>바라보는 방향으로 대쉬한다.</Description>
+	</Record>
+</Table>

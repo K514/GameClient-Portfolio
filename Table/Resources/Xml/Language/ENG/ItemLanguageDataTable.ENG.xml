@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- 100000000 ~ 110000000번 -->
+	<Record>
+		<KEY>100000000</KEY>
+		<Text>최하급 마석</Text>
+		<Description>성장 경험치 재료</Description>
+	</Record>
+</Table>

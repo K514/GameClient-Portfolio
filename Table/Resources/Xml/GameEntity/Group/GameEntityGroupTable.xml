@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+    </Record>
+    
+    <!-- 기본 플레이어 -->
+    <Record>
+        <KEY>1</KEY>
+        <GameEntityGroupPreset>PlayerForce0,EnemyComputerForce</GameEntityGroupPreset>
+    </Record>
+    <!-- 기본 아군 컴퓨터 -->
+    <Record>
+        <KEY>2</KEY>
+        <GameEntityGroupPreset>EnemyComputerForce0,EnemyComputerForce</GameEntityGroupPreset>
+    </Record>
+    <!-- 기본 적 컴퓨터 -->
+    <Record>
+        <KEY>3</KEY>
+        <GameEntityGroupPreset>EnemyComputerForce0,PlayerForce | AllyComputerForce</GameEntityGroupPreset>
+    </Record>
+</Table>

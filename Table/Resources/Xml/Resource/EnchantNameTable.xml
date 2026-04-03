@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+  <Record>
+    <KEY>Bless</KEY>
+    <ImageIndex>30000</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>VictoryThrill</KEY>
+    <ImageIndex>30001</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Heal</KEY>
+    <ImageIndex>30002</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Curse</KEY>
+    <ImageIndex>30003</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Stun</KEY>
+    <ImageIndex>30004</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Bleed</KEY>
+    <ImageIndex>30005</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Poison</KEY>
+    <ImageIndex>30006</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Blind</KEY>
+    <ImageIndex>30007</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Chill</KEY>
+    <ImageIndex>30008</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Freeze</KEY>
+    <ImageIndex>30009</ImageIndex>
+  </Record>
+  <Record>
+    <KEY>Groggy</KEY>
+    <ImageIndex>30010</ImageIndex>
+  </Record>
+</Table>

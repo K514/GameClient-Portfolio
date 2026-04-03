@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 400000000 ~ 410000000번 -->
+    <!-- 튜토리얼 -->
+    <Record>
+        <KEY>400001000</KEY>
+        <Text>0-0. 기본조작 A</Text>
+        <DungeonDescription>기본 컨트롤에 관한</DungeonDescription>
+    </Record>
+    <Record>
+        <KEY>400001001</KEY>
+        <Text>0-1. 기본조작 B</Text>
+        <DungeonDescription>스킬 사용에 관한</DungeonDescription>
+    </Record>
+</Table>

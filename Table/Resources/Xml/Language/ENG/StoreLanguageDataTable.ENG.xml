@@ -1,0 +1,8 @@
+<Table>
+    <!-- 200000000 ~ 210000000번 -->
+  <Record>
+    <KEY>200000000</KEY>
+    <Text>{0} 랜덤 카드 뽑기</Text>
+    <Description>랜덤으로 캐릭터 카드 {0}번 뽑습니다</Description>
+  </Record>
+</Table>

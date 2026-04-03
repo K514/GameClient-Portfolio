@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+<!--    <Record>
+        <KEY>55</KEY>
+        <UIxElementTypeList>HpBarTheater</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>56</KEY>
+        <UIxElementTypeList>NameTheater</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>57</KEY>
+        <UIxElementTypeList>NumberTheater</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>58</KEY>
+        <UIxElementTypeList>GaugeTheater</UIxElementTypeList>
+    </Record>-->
+ 
+    <Record>
+        <KEY>60</KEY>
+        <UIxElementTypeList>TouchPanel</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>61</KEY>
+        <UIxElementTypeList>Controller</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>62</KEY>
+        <UIxElementTypeList>PlayerState</UIxElementTypeList>
+    </Record>
+    
+    <Record>
+        <KEY>69</KEY>
+        <UIxElementTypeList>MainHUD</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>70</KEY>
+        <UIxElementTypeList>SystemMenu</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>71</KEY>
+        <UIxElementTypeList>MainHUDPauseButton</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>72</KEY>
+        <UIxElementTypeList>GameConfig</UIxElementTypeList>
+    </Record>
+    
+
+    <Record>
+        <KEY>98</KEY>
+        <UIxElementTypeList>Fader</UIxElementTypeList>
+    </Record>
+    <Record>
+        <KEY>99</KEY>
+        <UIxElementTypeList>Fader</UIxElementTypeList>
+    </Record>
+</Table>

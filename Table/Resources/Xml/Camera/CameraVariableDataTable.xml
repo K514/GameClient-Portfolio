@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <!-- 키 값, SceneSetting 테이블에서 SceneVariableIndexList가 참조하는 값 -->
+        <KEY>0</KEY>
+        <!-- [레이어 타입#거리] ~ 지정한 레이어의 오브젝트가 카메라로부터 거리만큼 벗어나면 카메라에 랜더링하지 않음 -->
+        <FarCullingDistances>UnitA#50\UnitB#50\UnitC#50</FarCullingDistances>
+        <!-- 0보다 크면 직교 카메라로 동작한다. -->
+        <OrthographicSize>0</OrthographicSize>
+        <!-- 플레이어와 카메라 사이의 기본 거리 -->
+        <CameraDistance>23.5</CameraDistance>
+        <!-- 플레이어 위치와 카메라 초점 사이의 Offset ~ 해당 카메라는 플레이어 위치로부터 (0, 1.5, 0) 더한 위치를 초점으로 가진다." -->
+        <CameraTraceOffset>0,1.5,0</CameraTraceOffset>
+        <!-- 플레이어 카메라 전후 기울기 ~ 해당 카메라는 앞으로 60도 회전해 있다.-->
+        <CameraWrapperTiltDegree>60</CameraWrapperTiltDegree>
+        <!-- 플레이어 카메라 좌우 기울기 ~ 해당 카메라는 반시계 방향으로 0도 만큼 회전해 있다. -->
+        <CameraWrapperSightDegree>0</CameraWrapperSightDegree>
+    </Record>
+
+    <Record>
+        <KEY>1</KEY>
+        <FarCullingDistances>UnitA#50\UnitB#50\UnitC#50</FarCullingDistances>
+        <OrthographicSize>16</OrthographicSize>
+        <CameraDistance>23.5</CameraDistance>
+        <CameraTraceOffset>0,2,0</CameraTraceOffset>
+        <CameraWrapperTiltDegree>70</CameraWrapperTiltDegree>
+        <CameraWrapperSightDegree>25</CameraWrapperSightDegree>
+    </Record>
+
+    <!-- 횡스크롤 카메라 -->
+    <Record>
+        <KEY>2</KEY>
+        <OrthographicSize>7</OrthographicSize>
+        <CameraDistance>23.5</CameraDistance>
+        <CameraTraceOffset>0,2,0</CameraTraceOffset>
+        <CameraWrapperTiltDegree>6</CameraWrapperTiltDegree>
+        <CameraWrapperSightDegree>1</CameraWrapperSightDegree>
+    </Record>
+</Table>

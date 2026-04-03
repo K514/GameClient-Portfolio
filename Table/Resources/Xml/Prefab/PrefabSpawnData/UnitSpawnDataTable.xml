@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>0</KEY>
+        <ModelIndex>1000000000</ModelIndex>
+        <ComponentIndex>140000000</ComponentIndex>
+    </Record>
+    <Record>
+        <KEY>1</KEY>
+        <ModelIndex>1000000001</ModelIndex>
+        <ComponentIndex>140000001</ComponentIndex>
+    </Record>
+</Table>

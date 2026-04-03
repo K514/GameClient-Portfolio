@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>1</KEY>
+        <DurationMsec>250</DurationMsec>
+        <Distance>4</Distance>
+        <CycleCount>4</CycleCount>
+        <Direction>0,1,0</Direction>
+    </Record>
+</Table>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <!-- 130_000_000 ~ 140_000_000 -->
+    <Record>
+        <KEY>130000000</KEY>
+        <MainComponentType>k514.BlackHole</MainComponentType>
+    </Record>
+    <Record>
+        <KEY>130000001</KEY>
+        <MainComponentType>k514.Shower</MainComponentType>
+    </Record>
+    <Record>
+        <KEY>130000002</KEY>
+        <MainComponentType>k514.Satellite</MainComponentType>
+    </Record>
+    <Record>
+        <KEY>130000003</KEY>
+        <MainComponentType>k514.CircleWave</MainComponentType>
+    </Record>
+    <Record>
+        <KEY>130000004</KEY>
+        <MainComponentType>k514.LineDrawer</MainComponentType>
+    </Record>
+    <Record>
+        <KEY>130000005</KEY>
+        <MainComponentType>k514.Doodad</MainComponentType>
+        <ComponentScaleFactor>2</ComponentScaleFactor>
+    </Record>
+</Table>

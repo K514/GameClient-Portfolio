@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Table>
+    <Record>
+        <KEY>Gary</KEY>
+        <Scale>1,1,0</Scale>
+        <Offset>0,0,0</Offset>
+        <SpriteNameFormat>Gary_{0}.png</SpriteNameFormat>
+        <IndexNumberLength>3</IndexNumberLength>
+        <SpriteNumber>12</SpriteNumber>
+        <AnimationDuration>1</AnimationDuration>
+    </Record>
+</Table>
