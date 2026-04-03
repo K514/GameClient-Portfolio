@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>황치원 | Unity 게임 클라이언트 포트폴리오</title>
+  <meta name="description" content="Unity & C# 기반 게임 클라이언트 포트폴리오 - 시스템 설계, 전투, AI, 입력, UI, 테이블, 씬 관리" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css">
+  <script src="./js/main.js" defer></script>
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+
+  <header class="site-header">
+    <div class="container hero">
+      <div class="hero-badge">Unity · C# · Game Client Architecture</div>
+      <h1>게임 클라이언트 포트폴리오</h1>
+      <p class="hero-subtitle">
+        황치원 · Unity &amp; C# 기반 게임 클라이언트 시스템 설계 및 구현
+      </p>
+
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="https://github.com/K514/GameClient-Portfolio" target="_blank" rel="noopener noreferrer">
+          코드 포트폴리오 보기
+        </a>
+        <a class="btn btn-secondary" href="#projects">
+          프로젝트 보기
+        </a>
+      </div>
+
+      <ul class="hero-meta">
+        <li>1인 개발 / 협업 경험</li>
+        <li>전투 · AI · 입력 · UI · 테이블 · 씬 시스템</li>
+        <li>Unity 클라이언트 전반 구현</li>
+      </ul>
+    </div>
+  </header>
+
+  <main>
+    <section class="container section">
+      <div class="section-heading">
+        <span class="section-kicker">Overview</span>
+        <h2>핵심 역량</h2>
+        <p>
+          실제 프로젝트에서 사용한 구조를 기반으로, 게임 클라이언트의 주요 시스템을 독립적이고 재사용 가능하게 설계했습니다.
+        </p>
+      </div>
+
+      <div class="feature-grid">
+        <article class="feature-card">
+          <h3>모듈 기반 엔터티</h3>
+          <p>플레이어, 몬스터, 탄막, 기믹을 하나의 엔터티 구조로 관리하고, AI·Action·Stat 모듈 교체를 통해 동작을 확장할 수 있도록 설계했습니다.</p>
+        </article>
+        <article class="feature-card">
+          <h3>커맨드 입력 시스템</h3>
+          <p>키보드, 조이스틱, 터치 입력을 통합하고 방향 버퍼 + 트리거 조합을 통해 던전 앤 파이터 스타일의 커맨드 입력을 구현했습니다.</p>
+        </article>
+        <article class="feature-card">
+          <h3>데이터 중심 테이블</h3>
+          <p>XML 기반 데이터를 Record 구조에 자동 매핑하고, 바이트 직렬화 로딩을 통해 파싱 비용을 줄이는 테이블 시스템을 구현했습니다.</p>
+        </article>
+        <article class="feature-card">
+          <h3>씬 / 실행 흐름 관리</h3>
+          <p>Boot, Entry, Loop 구조와 SceneEnvironment 기반 분리를 통해 초기화 순서, 씬 전이, 프리로드를 체계적으로 제어했습니다.</p>
+        </article>
+        <article class="feature-card">
+          <h3>풀링 / 수명 관리</h3>
+          <p>일반 클래스와 Unity 컴포넌트 풀을 분리하고, 리소스 수명 타입에 따라 씬 전환 시 자동 회수되도록 구성했습니다.</p>
+        </article>
+        <article class="feature-card">
+          <h3>UI / 이벤트 구조</h3>
+          <p>UI 컨테이너 구조를 통해 상위 UI가 하위 요소의 수명과 상태를 함께 관리하고, 입력 및 엔터티 이벤트를 자연스럽게 연결했습니다.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="container section section-alt">
+      <div class="section-heading">
+        <span class="section-kicker">Code Portfolio</span>
+        <h2>코드 포트폴리오 안내</h2>
+        <p>
+          이 웹 페이지는 프로젝트 결과와 시연 중심으로 구성되어 있고,
+          상세한 시스템 설계 및 코드 구조는 GitHub 레포지터리에 정리해두었습니다.
+        </p>
+      </div>
+
+      <div class="code-card">
+        <div class="code-card-content">
+          <h3>GameClient-Portfolio</h3>
+          <p>
+            게임 클라이언트 핵심 시스템만 선별한 코드 포트폴리오입니다.
+            엔터티, 입력, UI, 씬, 테이블, 싱글톤, 풀링, 데이터 저장 구조를
+            폴더 단위로 정리했습니다.
+          </p>
+          <ul class="check-list">
+            <li>GameEntity / Input / Table / UI / Scene / System 분리</li>
+            <li>README 기반 설계 설명 제공</li>
+            <li>실행 목적보다 구조와 설계 이해 중심</li>
+          </ul>
+          <div class="code-card-actions">
+            <a class="btn btn-primary" href="https://github.com/K514/GameClient-Portfolio" target="_blank" rel="noopener noreferrer">
+              GitHub 레포 보기
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="container section" id="projects">
+      <div class="section-heading">
+        <span class="section-kicker">Projects</span>
+        <h2>프로젝트 시연</h2>
+        <p>
+          실제로 구현한 전투, 연출, UI, 상호작용 중심의 프로젝트들입니다.
+        </p>
+      </div>
+
+      <!-- Project 1 -->
+      <section class="project-card">
+        <div class="project-content">
+          <div class="project-label">PERSONAL PROJECT</div>
+          <h3>3D 동방홍마향</h3>
+          <ul class="project-meta">
+            <li><strong>장르</strong><span>3D 슈팅</span></li>
+            <li><strong>기간</strong><span>3개월</span></li>
+            <li><strong>개발</strong><span>1인 개발</span></li>
+            <li><strong>엔진</strong><span>Unity</span></li>
+            <li><strong>상태</strong><span>미출시</span></li>
+          </ul>
+          <p>
+            탄막 연출과 보스 패턴 설계를 중심으로 만든 개인 프로젝트입니다.
+            짧은 기간 안에 전투 흐름, 카메라 연출, UI를 빠르게 프로토타이핑하며
+            전반적인 플레이 감각을 구성했습니다.
+          </p>
+          <div class="project-tags">
+            <span>보스 패턴</span>
+            <span>탄막 연출</span>
+            <span>전투 프로토타이핑</span>
+          </div>
+          <div class="project-actions">
+            <a class="btn btn-primary" target="_blank" rel="noopener noreferrer" href="https://youtu.be/-t3c5LnRsM8?list=PLQOZDBA1-tCSS3H0zE1VpF45CmPFW3sCM">
+              영상 보기
+            </a>
+          </div>
+        </div>
+
+        <div class="project-gallery">
+          <img src="./assets/t1.webp" data-full="./assets/t1.webp" alt="3D 동방홍마향 이미지 1">
+          <img src="./assets/t2.webp" data-full="./assets/t2.webp" alt="3D 동방홍마향 이미지 2">
+          <img src="./assets/t3.webp" data-full="./assets/t3.webp" alt="3D 동방홍마향 이미지 3">
+        </div>
+      </section>
+
+      <!-- Project 2 -->
+      <section class="project-card">
+        <div class="project-content">
+          <div class="project-label">TEAM PROJECT</div>
+          <h3>라미에르 사가 RPG</h3>
+          <ul class="project-meta">
+            <li><strong>장르</strong><span>모바일 MMORPG</span></li>
+            <li><strong>기간</strong><span>2년</span></li>
+            <li><strong>개발</strong><span>2인 개발 / 클라이언트 전담</span></li>
+            <li><strong>엔진</strong><span>Unity</span></li>
+            <li><strong>상태</strong><span>미출시</span></li>
+          </ul>
+          <p>
+            실시간 파티 사냥을 목표로 한 프로젝트로, 클라이언트 전반을 전담했습니다.
+            전투, 성장, 파티 흐름, UI/UX, 네트워크 연동 구조를 중심으로 구현했습니다.
+          </p>
+          <div class="project-tags">
+            <span>실시간 파티</span>
+            <span>클라이언트 전담</span>
+            <span>UI / 전투 시스템</span>
+          </div>
+          <div class="project-actions">
+            <a class="btn btn-primary" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=YNS9acrwsFM&list=PLQOZDBA1-tCSS3H0zE1VpF45CmPFW3sCM&index=11">
+              영상 보기
+            </a>
+          </div>
+        </div>
+
+        <div class="project-gallery two">
+          <img src="./assets/r1.webp" data-full="./assets/r1.webp" alt="라미에르 사가 이미지 1">
+          <img src="./assets/r2.webp" data-full="./assets/r2.webp" alt="라미에르 사가 이미지 2">
+        </div>
+      </section>
+
+      <!-- Project 3 -->
+      <section class="project-card">
+        <div class="project-content">
+          <div class="project-label">PERSONAL PROJECT</div>
+          <h3>블로하이</h3>
+          <ul class="project-meta">
+            <li><strong>장르</strong><span>모바일 슈팅</span></li>
+            <li><strong>기간</strong><span>9개월</span></li>
+            <li><strong>개발</strong><span>1인 개발</span></li>
+            <li><strong>엔진</strong><span>Unity</span></li>
+            <li><strong>특징</strong><span>탄알 단위 AI</span></li>
+          </ul>
+          <p>
+            탄알 단위로 AI를 부여해 적 추적, 대상 판별, 상호작용 기믹을 구현한 프로젝트입니다.
+            투사체 계층에서도 의사결정이 가능하도록 설계해 다양한 전술 상황을 만들었습니다.
+          </p>
+          <div class="project-tags">
+            <span>Projectile AI</span>
+            <span>타겟 판별</span>
+            <span>상호작용 기믹</span>
+          </div>
+          <div class="project-actions">
+            <a class="btn btn-primary" target="_blank" rel="noopener noreferrer" href="https://youtu.be/mSZCTD-elCY?list=PLQOZDBA1-tCSS3H0zE1VpF45CmPFW3sCM">
+              영상 보기
+            </a>
+          </div>
+        </div>
+
+        <div class="project-gallery two">
+          <img src="./assets/b1.webp" data-full="./assets/b1.webp" alt="블로하이 이미지 1">
+          <img src="./assets/b2.webp" data-full="./assets/b2.webp" alt="블로하이 이미지 2">
+        </div>
+      </section>
+    </section>
+
+    <section class="container section section-alt">
+      <div class="section-heading">
+        <span class="section-kicker">About</span>
+        <h2>개발 스타일</h2>
+      </div>
+
+      <div class="about-card">
+        <p>
+          Unity와 C# 기반으로 <strong>게임 클라이언트 전반을 구조적으로 설계</strong>하는 것을 선호합니다.
+          단순히 기능을 붙이는 방식보다,
+          시스템 간 역할을 분리하고 재사용 가능한 구조를 만드는 데 강점을 가지고 있습니다.
+        </p>
+        <p>
+          특히 전투, 입력, 엔터티, 데이터, 씬 흐름처럼 서로 얽히는 시스템을
+          확장 가능하게 설계하는 작업에 흥미를 느끼며,
+          실제 프로젝트에서도 이러한 방향으로 구조를 구성해왔습니다.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>황치원</strong><br />
+        Unity Game Client Developer
+      </div>
+      <div class="footer-links">
+        <a href="mailto:cpprxxxooo@gmail.com">cpprxxxooo@gmail.com</a>
+        <a href="https://github.com/K514/GameClient-Portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" id="lbClose" aria-label="닫기">×</button>
+    <img id="lbImg" src="" alt="preview">
+    <div class="lightbox-caption" id="lbCap"></div>
+  </div>
+</body>
+</html>
